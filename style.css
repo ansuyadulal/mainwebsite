@@ -1,0 +1,26 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+  }
+  
+  h1 {
+    font-style: oblique;
+    color: #ca828e;
+  }
+  img {height: 450px}
+  p1 {
+    color: #993848
+  }
+  a {
+    color: rgb(202, 165, 173);
+  }
+  
+  h2 {
+    color:rgb(184, 158, 163);
+  }
+  
+  p2 {
+    color: rgb(200, 160, 193);
+  }
